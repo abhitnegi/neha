@@ -26,9 +26,19 @@
   margin: 2vh;
 }
 
-@media only screen and (max-width: 750px){
+@media only screen and (max-width: 650px){
   .last img{
-    width: 30vw;
+    width: 70vw;
     height: 80vh;
+  }
+
+  .home img{
+    width: 35vw;
+    height: 20vh;
+    margin: 2vh;
+  }
+
+  .last h1{
+    font-size: 3vh;
   }
 }
