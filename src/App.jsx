@@ -9,7 +9,7 @@ import Last from './Last';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/neha'>
         <Routes>
           <Route path='/' element={<Home />}/>
           <Route path='/about' element={<About />}/>
