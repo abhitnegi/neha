@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/neha/static/css/main.b2e6099b.css",
-    "main.js": "/neha/static/js/main.ba820fb9.js",
+    "main.css": "/neha/static/css/main.f27e4b05.css",
+    "main.js": "/neha/static/js/main.18526bcc.js",
     "static/media/jenny.jpg": "/neha/static/media/jenny.f8d5ae3efa7def3f1336.jpg",
     "static/media/neha.jpg": "/neha/static/media/neha.d26c28edaa649a6890b5.jpg",
     "static/media/first.webp": "/neha/static/media/first.837f616536e0cc04bfb6.webp",
     "index.html": "/neha/index.html",
-    "main.b2e6099b.css.map": "/neha/static/css/main.b2e6099b.css.map",
-    "main.ba820fb9.js.map": "/neha/static/js/main.ba820fb9.js.map"
+    "main.f27e4b05.css.map": "/neha/static/css/main.f27e4b05.css.map",
+    "main.18526bcc.js.map": "/neha/static/js/main.18526bcc.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2e6099b.css",
-    "static/js/main.ba820fb9.js"
+    "static/css/main.f27e4b05.css",
+    "static/js/main.18526bcc.js"
   ]
 }

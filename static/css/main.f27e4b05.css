@@ -1,0 +1,2 @@
+.home{align-items:center;display:flex;flex-direction:column;height:90vh;justify-content:center}.home img{height:40vh;margin:2vh;width:40vw}.last{align-items:center;display:flex;flex-direction:column;height:90vh;justify-content:center}.last img{height:80vh;margin:2vh;width:30vw}@media only screen and (max-width:650px){.home{display:grid;grid-template-columns:auto auto;margin-left:3vh}.last img{height:80vh;width:70vw}.home img{height:20vh;margin:2vh;width:35vw}.last h1{font-size:3vh}}
+/*# sourceMappingURL=main.f27e4b05.css.map*/
