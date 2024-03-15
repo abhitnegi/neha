@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/neha/static/css/main.f27e4b05.css",
-    "main.js": "/neha/static/js/main.18526bcc.js",
-    "static/media/jenny.jpg": "/neha/static/media/jenny.f8d5ae3efa7def3f1336.jpg",
-    "static/media/neha.jpg": "/neha/static/media/neha.d26c28edaa649a6890b5.jpg",
-    "static/media/first.webp": "/neha/static/media/first.837f616536e0cc04bfb6.webp",
+    "main.css": "/neha/static/css/main.22e27a27.css",
+    "main.js": "/neha/static/js/main.9ff6758a.js",
+    "static/media/240.png": "/neha/static/media/240.e0f951f5bc7bd6e93ec2.png",
+    "static/media/nehamoon.jpg": "/neha/static/media/nehamoon.b048efec3e65eeeb8cdc.jpg",
+    "static/media/moon360p.jpg": "/neha/static/media/moon360p.0b9b753df15af4f08127.jpg",
+    "static/media/moon720p.png": "/neha/static/media/moon720p.2ff6a7db4bd496a6a9f9.png",
     "index.html": "/neha/index.html",
-    "main.f27e4b05.css.map": "/neha/static/css/main.f27e4b05.css.map",
-    "main.18526bcc.js.map": "/neha/static/js/main.18526bcc.js.map"
+    "main.22e27a27.css.map": "/neha/static/css/main.22e27a27.css.map",
+    "main.9ff6758a.js.map": "/neha/static/js/main.9ff6758a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f27e4b05.css",
-    "static/js/main.18526bcc.js"
+    "static/css/main.22e27a27.css",
+    "static/js/main.9ff6758a.js"
   ]
 }
